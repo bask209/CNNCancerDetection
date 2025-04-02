@@ -4,6 +4,7 @@ histopathologic-cancer-detection - Copy
 histopathologic-cancer-detection - Copy/*
 *.zip
 *.png
+*.keras
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
